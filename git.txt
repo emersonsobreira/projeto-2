@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 git branch git checkout ..........
 
 
-auala 15 /02 / 23 
+auala 15 /02 / 23
+git branch ggggg
